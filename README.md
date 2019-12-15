@@ -4,7 +4,6 @@
 
 VMware vRealize Operation 7.X or 8.X
 
-```
 This dashboard was created in vROps 7.5 , Dashboard that show you summary Top Host CPU Performance focus on CPU workload % , CPU Usage % , CPU Contetion % and more.
 
 Installation Guide :
